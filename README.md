@@ -1,2 +1,2 @@
 # Intent_assignment
-Assignment on intent
+IMplement Data Binding on Intent
